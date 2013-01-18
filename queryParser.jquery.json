@@ -6,20 +6,17 @@
     "query",
     "parameter",
     "window.location.search",
-    "parser"
+    "parser",
+	"forms",
+	"querystring",
+	"deserialize",
+	"serialize"
   ],
   "version": "1.0.0",
   "author": {
     "name": "Matt Snider",
     "url": "http://www.mattsnider.com"
   },
-  "maintainers": [
-    {
-      "name": "Matt Snider",
-      "email": "admin@mattsnider.com",
-      "url": "http://www.mattsnider.com"
-    }
-  ],
   "licenses": [
     {
       "type": "MIT",
@@ -29,8 +26,8 @@
   "bugs": "https://github.com/mattsnider/jquery-plugin-query-parser/issues",
   "homepage": "https://github.com/mattsnider/jquery-plugin-query-parser",
   "docs": "https://github.com/mattsnider/jquery-plugin-query-parser",
-  "download": "https://github.com/mattsnider/",
+  "download": "https://github.com/mattsnider/jquery-plugin-query-parser/archive/master.zip",
   "dependencies": {
-    "jquery": ">=1"
+    "jquery": ">=1.4"
   }
 }
